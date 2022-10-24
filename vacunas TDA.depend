@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1664755877 source:c:\users\tamara\desktop\marco\vacunas tda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ciudadano.h"
+	<string.h>
+	<time.h>
+
+1664755877 c:\users\tamara\desktop\marco\vacunas tda\ciudadano.h
+
+1664756027 source:c:\users\tamara\desktop\marco\vacunas tda\ciudadano.c
+	<stdio.h>
+	<stdlib.h>
+	"ciudadano.h"
+	"vacuna.h"
+	<string.h>
+	<time.h>
+
+1664754539 c:\users\tamara\desktop\marco\vacunas tda\vacuna.h
+
+1664755350 source:c:\users\tamara\desktop\marco\vacunas tda\vacuna.c
+	<stdio.h>
+	<stdlib.h>
+	"vacuna.h"
+	<string.h>
+	<time.h>
+
